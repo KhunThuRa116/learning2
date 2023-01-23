@@ -1,0 +1,2 @@
+Local website  ==> http://127.0.0.1:5500/index.html
+Global website ==> https://khunthura116.github.io/learning2/
