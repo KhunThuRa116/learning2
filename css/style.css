@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 2rem;
+    padding: 1rem;
+    color: white;
+    background-color:   greenyellow;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
